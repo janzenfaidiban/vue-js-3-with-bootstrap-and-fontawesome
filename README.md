@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=MoDIpTuRWfM
 https://github.com/FortAwesome/vue-fontawesome
 
 #### Netlify Demo
-https://vuejs3-with-bootstrap-and-fontawesome.netlify.app/
+https://vue-js-3-with-bootstrap-and-fontawesome.netlify.app/
 
 ## Learning Progress
 <ul>
