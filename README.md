@@ -36,6 +36,7 @@ https://github.com/FortAwesome/vue-fontawesome
     <li>Succeed --- Adding Bootstrap via NPM</li>
     <li>Succeed --- Adding Font Awesome via NPM</li>
     <li>Succeed --- Creating separates components (Footer, Nav)</li>
+    <li>Succeed --- Added images</li>
     <li>Net yet --- Deploy to netlify.com</li>
     <li>Net yet --- Create children routes</li>
 </ul>
