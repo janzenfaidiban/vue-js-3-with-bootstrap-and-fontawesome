@@ -1,4 +1,4 @@
-# vue-with-bootstrap
+# Implementation of Vue.js 3 with Bootstrap and Font Awesome
 
 ## Project setup
 ```
