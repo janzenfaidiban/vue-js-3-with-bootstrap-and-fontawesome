@@ -15,7 +15,7 @@ const routes = [
     component: Course
   },
   {
-    path: '/community/sacodes-weekend',
+    path: '/sacodes-weekend',
     name: 'sacodes-weekend',
     component: SaCodesWeekend
   }
