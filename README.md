@@ -32,10 +32,10 @@ https://github.com/FortAwesome/vue-fontawesome
 
 ## Learning Progress
 <ul>
-    <li>Setup Vue 3 --- ok</li>
-    <li>Adding Bootstrap via NPM --- ok</li>
-    <li>Adding Font Awesome via NPM --- ok</li>
-    <li>Creating separates components (Footer, Nav) --- ok</li>
-    <li>Deploy to netlify.com--- not yet</li>
-    <li>Create children routes --- not yet</li>
+    <li>Succeed --- Setup Vue 3</li>
+    <li>Succeed --- Adding Bootstrap via NPM</li>
+    <li>Succeed --- Adding Font Awesome via NPM</li>
+    <li>Succeed --- Creating separates components (Footer, Nav)</li>
+    <li>Net yet --- Deploy to netlify.com</li>
+    <li>Net yet --- Create children routes</li>
 </ul>
